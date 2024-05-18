@@ -1,0 +1,20 @@
+[11-Jan-2024 05:03:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman1teladan-yog.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/blocks/index.php on line 8
+[11-Jan-2024 05:03:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman1teladan-yog.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 04:21:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 09:49:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/blocks/index.php on line 8
+[28-Mar-2024 02:42:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/blocks/index.php on line 8

@@ -1,0 +1,2008 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 12:23:37
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 8.1.13                                |8.1.13
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.13 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+REQUEST URL_________: "https://sman1teladan-yog.sch.id"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+INSTALL MODES_______: CLASSIC
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+URL_NEW_____________: "https://sman1teladan-yog.sch.id"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/u1571057/public_html/sman1teladan-yog.sch.id/20230221_smanegeri1yogyakarta_[HASH]_20230221065056_archive.zip"
+ARCHIVE SIZE________: 174.54MB
+CREATED_____________: 2023-02-21 06:50:56
+WP VERSION__________: 6.1.1
+DUP VERSION_________: 4.5.9.1
+LICENSE_____________: unlicensed
+DB VERSION__________: 10.6.3
+DB FILE SIZE________: 25.91MB
+DB TABLES___________: 48
+DB ROWS_____________: 20103
+URL HOME____________: https://sman1teladan-yog.sch.id
+URL CORE____________: https://sman1teladan-yog.sch.id
+URL CONTENT_________: https://sman1teladan-yog.sch.id/wp-content
+URL UPLOAD__________: https://sman1teladan-yog.sch.id/wp-content/uploads
+URL PLUGINS_________: https://sman1teladan-yog.sch.id/wp-content/plugins
+URL MU PLUGINS______: https://sman1teladan-yog.sch.id/wp-content/mu-plugins
+URL THEMES__________: https://sman1teladan-yog.sch.id/wp-content/themes
+PATH HOME___________: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html
+PATH ABS____________: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html
+PATH WPCONFIG_______: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html
+PATH WPCONTENT______: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html/wp-content
+PATH UPLOADS________: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html/wp-content/uploads
+PATH PLUGINS________: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "sman1teladan-yog.sch.id/"
+
+PLUGINS
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false]  Akismet Anti-Spam
+PLUGIN [SLUG:breeze/breeze.php                                 ][ON:true ]  Breeze
+PLUGIN [SLUG:copy-delete-posts/copy-delete-posts.php           ][ON:true ]  Copy & Delete Posts
+PLUGIN [SLUG:dethemekit-for-elementor/detheme-kit.php          ][ON:true ]  DethemeKit for Elementor
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:false]  Duplicator
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:header-footer-elementor/header-footer-elementor.php][ON:true ]  Elementor Header & Footer Builder
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:elementskit-lite/elementskit-lite.php             ][ON:true ]  ElementsKit Lite
+PLUGIN [SLUG:envato-elements/envato-elements.php               ][ON:true ]  Envato Elements
+PLUGIN [SLUG:malcare-security/malcare.php                      ][ON:true ]  MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Firewall
+PLUGIN [SLUG:really-simple-ssl/rlrsssl-really-simple-ssl.php   ][ON:true ]  Really Simple SSL
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:true ]  Site Kit by Google
+PLUGIN [SLUG:sticky-header-effects-for-elementor/sticky-header-effects-for-elementor.php][ON:true ]  Sticky Header Effects for Elementor
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:false]  Wordfence Security
+PLUGIN [SLUG:wpforms-lite/wpforms.php                          ][ON:true ]  WPForms Lite
+PLUGIN [SLUG:advanced-cache.php                                ][ON:false]  advanced-cache.php
+
+********************************************************************************
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.04078]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.03015]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+LOG-TIME[DELTA:   0.00644]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00237]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00032]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00811]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00117]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00164]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00056]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00046]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/classes/database/class.db.php:678] MSG: SELECT command denied to user 'u1571057_sman1'@'localhost' for table 'user'
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u1571057_sman1' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/classes/validation/class.validation.database.service.php[984]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/classes/validation/class.validation.manager.php[239]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/classes/validation/class.validation.manager.php[212]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/ctrls/classes/class.ctrl.ajax.php[171]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/ctrls/classes/class.ctrl.ajax.php[96]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.02562]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00057]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00097]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: hard warning
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00060]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00049]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00040]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 12:24:41
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "SMA Negeri 1 Yogyakarta"
+HOME URL NEW________: "https://sman1teladan-yog.sch.id"
+SITE URL NEW________: "https://sman1teladan-yog.sch.id"
+CONTENT URL NEW_____: "https://sman1teladan-yog.sch.id/wp-content"
+UPLOAD URL NEW______: "https://sman1teladan-yog.sch.id/wp-content/uploads"
+PLUGINS URL NEW_____: "https://sman1teladan-yog.sch.id/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://sman1teladan-yog.sch.id/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+SITE PATH NEW_______: "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+CONTENT PATH NEW____: "/home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content"
+UPLOAD PATH NEW_____: "/home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer"
+	FILE: "/home/u1571057/public_html/sman1teladan-yog.sch.id/20230221_smanegeri1yogyakarta_[HASH]_20230221065056_installer-backup.php"
+	FILE: "/home/u1571057/public_html/sman1teladan-yog.sch.id/20230221_smanegeri1yogyakarta_[HASH]_20230221065056_archive.zip"
+	FILE: "/home/u1571057/public_html/sman1teladan-yog.sch.id/installer.php"
+	FILE: "/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer-bootlog__2695df4-21065056.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230221_smanegeri1yogyakarta_[HASH]_20230221065056_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.3001 sec. - Files processed: 508 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 508
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0283 sec. - Files processed: 1,618 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 1618
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0774 sec. - Files processed: 1,763 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 1763
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0105 sec. - Files processed: 2,170 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2170
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3277 sec. - Files processed: 2,359 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2359
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2598 sec. - Files processed: 2,369 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2369
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1241 sec. - Files processed: 2,450 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2450
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1549 sec. - Files processed: 2,536 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2536
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0174 sec. - Files processed: 2,587 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2587
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1140 sec. - Files processed: 2,659 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2659
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1466 sec. - Files processed: 2,770 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2770
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0154 sec. - Files processed: 2,854 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2854
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 6.1698 sec. - Files processed: 2,966 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2966
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.6523 sec. - Files processed: 3,042 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3042
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.9201 sec. - Files processed: 3,099 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3099
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2734 sec. - Files processed: 3,158 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3158
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 6.6757 sec. - Files processed: 3,897 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3897
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.4368 sec. - Files processed: 4,676 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 4676
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3101 sec. - Files processed: 4,843 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 4843
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0858 sec. - Files processed: 5,787 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 5787
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0062 sec. - Files processed: 6,598 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 6598
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0142 sec. - Files processed: 8,244 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 8244
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 6.5310 sec. - Files processed: 9,012 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 9012
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0140 sec. - Files processed: 9,645 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 9645
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0133 sec. - Files processed: 10,566 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 10566
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 10566
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0578 sec. - Files processed: 11,610 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+CHUNK COMPLETE - RUNTIME: 5.0086 sec. - Files processed: 11,593 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 11593
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0269 sec. - Files processed: 11,924 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 11924
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0129 sec. - Files processed: 12,366 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 12366
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0395 sec. - Files processed: 14,198 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 14198
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0986 sec. - Files processed: 14,549 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 14549
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0149 sec. - Files processed: 15,005 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 15005
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 16112
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 12:27:39 - RUNTIME: 177.6703 sec. - Files processed: 15,282 of 15,282
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 12:27:39
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[ROWS:      48] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_actions]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_claims]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_groups]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:     117] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_logs]
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_bv_fw_requests]
+TABLE "wp_bv_ip_store"__________________________________[ROWS:    5344] [EXTRACT|REPLACE] [INST NAME: wp_bv_ip_store]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_bv_lp_requests]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:      27] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_entities]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_packages]
+TABLE "wp_e_events"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_e_submissions"________________________________[ROWS:     582] [EXTRACT|REPLACE] [INST NAME: wp_e_submissions]
+TABLE "wp_e_submissions_actions_log"____________________[ROWS:     582] [EXTRACT|REPLACE] [INST NAME: wp_e_submissions_actions_log]
+TABLE "wp_e_submissions_values"_________________________[ROWS:    1798] [EXTRACT|REPLACE] [INST NAME: wp_e_submissions_values]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     306] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    2555] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     527] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_termmeta"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:      18] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:      83] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:      18] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:      40] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfblockediplog]
+TABLE "wp_wfblocks7"____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_wfblocks7]
+TABLE "wp_wfconfig"_____________________________________[ROWS:     262] [EXTRACT|REPLACE] [INST NAME: wp_wfconfig]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfcrawlers]
+TABLE "wp_wffilechanges"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilechanges]
+TABLE "wp_wffilemods"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilemods]
+TABLE "wp_wfhits"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhits]
+TABLE "wp_wfhoover"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhoover]
+TABLE "wp_wfissues"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfissues]
+TABLE "wp_wfknownfilelist"______________________________[ROWS:    8136] [EXTRACT|REPLACE] [INST NAME: wp_wfknownfilelist]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflivetraffichuman]
+TABLE "wp_wflocs"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflocs]
+TABLE "wp_wflogins"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflogins]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfls_2fa_secrets]
+TABLE "wp_wfls_settings"________________________________[ROWS:      21] [EXTRACT|REPLACE] [INST NAME: wp_wfls_settings]
+TABLE "wp_wfnotifications"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfnotifications]
+TABLE "wp_wfpendingissues"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfpendingissues]
+TABLE "wp_wfreversecache"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfreversecache]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfsnipcache]
+TABLE "wp_wfstatus"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfstatus]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wftrafficrates]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_wpforms_tasks_meta]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.5.17 -- Build Server: 10.6.3
+FILE SIZE:	dup-database__[HASH].sql (16.85MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+GLOBAL RULES ADDED: INVALID CHARSETS
+GLOBAL RULES ADDED: INVALID COLLATIONS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`u1571057_sman1`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8mb3))([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8mb4$3utf8mb4_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8mb3))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4_general_ci$3utf8mb4$5
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8mb3))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8mb3_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4$3utf8mb4_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8mb3_general_ci))([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8mb4_general_ci$3utf8mb4$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8mb3_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8mb4_general_ci$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 8405482
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	185
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    48]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     2]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:   117]
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:     0]
+TABLE "wp_bv_ip_store"__________________________________[ROWS:  5344]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:     1]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:    27]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     0]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:     6]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:     0]
+TABLE "wp_e_submissions"________________________________[ROWS:   582]
+TABLE "wp_e_submissions_actions_log"____________________[ROWS:   582]
+TABLE "wp_e_submissions_values"_________________________[ROWS:  1798]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   306]
+TABLE "wp_postmeta"_____________________________________[ROWS:  2555]
+TABLE "wp_posts"________________________________________[ROWS:   527]
+TABLE "wp_term_relationships"___________________________[ROWS:    83]
+TABLE "wp_term_taxonomy"________________________________[ROWS:    18]
+TABLE "wp_termmeta"_____________________________________[ROWS:     0]
+TABLE "wp_terms"________________________________________[ROWS:    18]
+TABLE "wp_usermeta"_____________________________________[ROWS:    40]
+TABLE "wp_users"________________________________________[ROWS:     1]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:     0]
+TABLE "wp_wfblocks7"____________________________________[ROWS:     1]
+TABLE "wp_wfconfig"_____________________________________[ROWS:   262]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:     0]
+TABLE "wp_wffilechanges"________________________________[ROWS:     0]
+TABLE "wp_wffilemods"___________________________________[ROWS:     0]
+TABLE "wp_wfhits"_______________________________________[ROWS:     0]
+TABLE "wp_wfhoover"_____________________________________[ROWS:     0]
+TABLE "wp_wfissues"_____________________________________[ROWS:     0]
+TABLE "wp_wfknownfilelist"______________________________[ROWS:  8136]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:     0]
+TABLE "wp_wflocs"_______________________________________[ROWS:     0]
+TABLE "wp_wflogins"_____________________________________[ROWS:     0]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:     0]
+TABLE "wp_wfls_settings"________________________________[ROWS:    21]
+TABLE "wp_wfnotifications"______________________________[ROWS:     0]
+TABLE "wp_wfpendingissues"______________________________[ROWS:     0]
+TABLE "wp_wfreversecache"_______________________________[ROWS:     0]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:     0]
+TABLE "wp_wfstatus"_____________________________________[ROWS:     0]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:     0]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:     3]
+
+INSERT DATA RUNTIME: 7.2376 sec.
+STEP-2 COMPLETE @ 12:27:46 - RUNTIME: 7.2376 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/498140.cloudwaysapps.com/ubfdbnrefc/public_html REPLACE: /home/u1571057/public_html/sman1teladan-yog.sch.id [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 12:27:46
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 500M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:    40]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    48][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:   117][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_bv_fw_requests"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bv_ip_store"__________________________________[ROWS:  5344][PG:   6][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bv_lp_requests"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_bv_lp_requests][0]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_pro_entities"______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions"________________________________[ROWS:   582][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_e_submissions][0]
+
+EVALUATE TABLE: "wp_e_submissions_actions_log"____________________[ROWS:   582][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_e_submissions_actions_log][0]
+
+EVALUATE TABLE: "wp_e_submissions_values"_________________________[ROWS:  1798][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_e_submissions_values][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_e_submissions_values][1]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   266][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  2555][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   527][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    83][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wfblockediplog"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblocks7"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfblocks7][0]
+
+EVALUATE TABLE: "wp_wfconfig"_____________________________________[ROWS:   262][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfconfig][0]
+
+EVALUATE TABLE: "wp_wfcrawlers"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilechanges"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilemods"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhits"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhoover"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfissues"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfknownfilelist"______________________________[ROWS:  8136][PG:   9][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][8]
+
+EVALUATE TABLE: "wp_wflivetraffichuman"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflocs"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflogins"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_2fa_secrets"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_settings"________________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfls_settings][0]
+
+EVALUATE TABLE: "wp_wfnotifications"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfpendingissues"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfreversecache"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfsnipcache"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfstatus"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wftrafficrates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpforms_tasks_meta"___________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/498140.cloudwaysapps.com/ubfdbnrefc/public_html" => "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_tasks_meta][0]
+--------------------------------------
+SCANNED:	Tables:48 	|	 Rows:15011 	|	 Cells:76493 
+UPDATED:	Tables:2 	|	 Rows:8139 	|	 Cells:8139 
+ERRORS:		0 
+RUNTIME:	1.644700 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php
+New .htaccess file created:/home/u1571057/public_html/sman1teladan-yog.sch.id/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""u1571057_sman1tldm""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "true"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+UPDATE OPTION home ON TABLE wp_options
+UPDATE OPTION siteurl ON TABLE wp_options
+UPDATE OPTION duplicator_pro_exe_safe_mode ON TABLE wp_options
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 1 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/sman1teladan-yog.sch.id"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 12:27:48 - RUNTIME: 1.7610 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php
+E_WARNING Constant AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[71]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[71]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[72]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[72]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[73]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[73]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[74]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[74]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[75]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[75]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[76]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[76]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[77]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[77]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[78]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[78]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[63]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[73]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[89]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[102]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[111]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[40]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[51]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[68]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[82]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[91]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/plugins/google-site-kit/includes/Core/REST_API/REST_Routes.php[69]
+	--- TRACE ---
+	FUNCTION: stripos                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/plugins/google-site-kit/includes/Core/REST_API/REST_Routes.php[69]
+	CLASS___: Google\Site_Kit\Core\REST_API\REST_Routes->Google\Site_Kit\Core\REST_API\{closure}FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/plugin.php[205]
+	FUNCTION: apply_filters                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp.php[299]
+	CLASS___: WP->parse_request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp.php[780]
+	CLASS___: WP->main                      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/functions.php[1332]
+	FUNCTION: wp                            FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-blog-header.php[16]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/index.php[17]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php
+E_WARNING Constant AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[71]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[71]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[72]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[72]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[73]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[73]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_KEY already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[74]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[74]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[75]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[75]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[76]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[76]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[77]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[77]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_SALT already defined
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[78]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-config.php[78]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/formatting.php[5397]
+	--- TRACE ---
+	FUNCTION: preg_replace                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/formatting.php[5397]
+	FUNCTION: wp_strip_all_tags             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/formatting.php[2127]
+	FUNCTION: sanitize_user                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/pluggable.php[597]
+	FUNCTION: wp_authenticate               FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/user.php[95]
+	FUNCTION: wp_signon                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1231]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED trim(): Passing null to parameter #1 ($string) of type string is deprecated
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/pluggable.php[598]
+	--- TRACE ---
+	FUNCTION: trim                          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/pluggable.php[598]
+	FUNCTION: wp_authenticate               FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/user.php[95]
+	FUNCTION: wp_signon                     FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1231]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[63]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[73]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[89]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[102]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Cookie/Jar.php[111]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Transport/cURL.php[345]
+	--- TRACE ---
+	FUNCTION: http_build_query              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Transport/cURL.php[345]
+	CLASS___: Requests_Transport_cURL->setup_handleFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Transport/cURL.php[135]
+	CLASS___: Requests_Transport_cURL->requestFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[381]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[40]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[51]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[68]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[82]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[91]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[59]
+	FUNCTION: translations_api              FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-admin/includes/translation-install.php[133]
+	FUNCTION: wp_get_available_translations FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-includes/l10n.php[1535]
+	FUNCTION: wp_dropdown_languages         FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[357]
+	FUNCTION: login_footer                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-login.php[1555]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/sman1teladan-yog.sch.id/wp-content/wp_test_script_2695df4-21065056.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[/home/u1571057/public_html/sman1teladan-yog.sch.id/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.05616]  MESSAGE:END RENDER PAGE

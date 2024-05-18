@@ -1,0 +1,75 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "body_color": "#012068",
+        "body_typography_typography": "custom",
+        "body_typography_font_family": "Muli",
+        "body_typography_font_weight": "600",
+        "link_normal_color": "#FF7200",
+        "link_hover_color": "#012068",
+        "h1_typography_typography": "custom",
+        "h1_typography_font_family": "Poppins",
+        "h2_typography_typography": "custom",
+        "h2_typography_font_family": "Poppins",
+        "h3_typography_typography": "custom",
+        "h3_typography_font_family": "Poppins",
+        "h4_typography_typography": "custom",
+        "h4_typography_font_family": "Poppins",
+        "h5_typography_typography": "custom",
+        "h5_typography_font_family": "Poppins",
+        "h6_typography_typography": "custom",
+        "h6_typography_font_family": "Poppins",
+        "button_text_color": "#FFFFFF",
+        "button_background_color": "#021B55",
+        "button_border_border": "solid",
+        "button_border_width": {
+            "unit": "px",
+            "top": "2",
+            "right": "2",
+            "bottom": "2",
+            "left": "2",
+            "isLinked": "1"
+        },
+        "button_border_color": "#021B55",
+        "button_border_radius": {
+            "unit": "px",
+            "top": "5",
+            "right": "5",
+            "bottom": "5",
+            "left": "5",
+            "isLinked": "1"
+        },
+        "button_hover_text_color": "#021B55",
+        "button_hover_background_color": "#FFFFFF",
+        "form_field_border_border": "solid",
+        "form_field_border_width": {
+            "unit": "px",
+            "top": "1",
+            "right": "1",
+            "bottom": "1",
+            "left": "1",
+            "isLinked": "1"
+        },
+        "form_field_border_color": "#EBEBEB",
+        "h1_color": "#012068",
+        "h2_color": "#012068",
+        "h3_color": "#012068",
+        "h4_color": "#012068",
+        "h5_color": "#012068",
+        "h6_color": "#012068",
+        "form_field_text_color": "#012068",
+        "form_field_background_color": "#FFFFFF"
+    }
+}

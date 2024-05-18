@@ -1,0 +1,56 @@
+[11-Jan-2024 05:03:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[11-Jan-2024 05:03:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-grid-posts.php on line 9
+[11-Jan-2024 05:03:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[11-Jan-2024 05:03:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[11-Jan-2024 05:03:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[11-Jan-2024 05:03:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-medium-posts.php on line 9
+[11-Jan-2024 05:03:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[11-Jan-2024 05:03:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-offset-posts.php on line 9
+[11-Jan-2024 05:03:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[11-Jan-2024 05:03:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-small-posts.php on line 9
+[11-Jan-2024 05:03:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[11-Jan-2024 05:03:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/query-standard-posts.php on line 9
+[11-Jan-2024 05:03:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[11-Jan-2024 05:03:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

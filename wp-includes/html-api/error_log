@@ -1,0 +1,8 @@
+[11-Jan-2024 05:04:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/html-api/class-wp-html-processor.php on line 131
+[11-Jan-2024 05:04:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/html-api/class-wp-html-processor.php on line 131

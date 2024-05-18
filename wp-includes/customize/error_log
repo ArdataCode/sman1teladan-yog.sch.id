@@ -1,0 +1,272 @@
+[11-Jan-2024 05:03:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[11-Jan-2024 05:03:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[11-Jan-2024 05:03:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[11-Jan-2024 05:03:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[11-Jan-2024 05:03:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[11-Jan-2024 05:03:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[11-Jan-2024 05:03:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[11-Jan-2024 05:03:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[11-Jan-2024 05:03:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[11-Jan-2024 05:03:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[11-Jan-2024 05:03:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[11-Jan-2024 05:03:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[11-Jan-2024 05:03:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[11-Jan-2024 05:03:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[11-Jan-2024 05:03:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[11-Jan-2024 05:03:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[11-Jan-2024 05:03:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[11-Jan-2024 05:03:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[11-Jan-2024 05:03:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[11-Jan-2024 05:03:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[11-Jan-2024 05:03:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[11-Jan-2024 05:03:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[11-Jan-2024 05:03:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[11-Jan-2024 05:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[11-Jan-2024 05:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[11-Jan-2024 05:04:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[11-Jan-2024 05:04:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[11-Jan-2024 05:04:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[11-Jan-2024 05:04:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[11-Jan-2024 05:04:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[11-Jan-2024 05:04:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[11-Jan-2024 05:04:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[11-Jan-2024 05:04:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[11-Jan-2024 05:04:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[11-Jan-2024 05:04:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[11-Jan-2024 05:04:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[11-Jan-2024 05:04:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[11-Jan-2024 05:04:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[11-Jan-2024 05:04:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[11-Jan-2024 05:04:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[11-Jan-2024 05:04:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[11-Jan-2024 05:04:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[11-Jan-2024 05:04:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[11-Jan-2024 05:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[11-Jan-2024 05:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[11-Jan-2024 05:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[11-Jan-2024 05:04:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[11-Jan-2024 05:04:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[11-Jan-2024 05:04:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[11-Jan-2024 05:04:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[11-Jan-2024 05:04:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[11-Jan-2024 05:04:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[11-Jan-2024 05:04:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[11-Jan-2024 05:04:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[11-Jan-2024 05:04:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[11-Jan-2024 05:04:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[11-Jan-2024 05:04:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[11-Jan-2024 05:04:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[11-Jan-2024 05:04:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[11-Jan-2024 05:04:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[11-Jan-2024 05:04:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[11-Jan-2024 05:04:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[11-Jan-2024 05:04:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[11-Jan-2024 05:04:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[11-Jan-2024 05:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[11-Jan-2024 05:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[11-Jan-2024 05:04:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[11-Jan-2024 05:04:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

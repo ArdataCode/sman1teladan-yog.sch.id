@@ -1,0 +1,1171 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Eduliv Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.1.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services - Page",
+            "screenshot": "screenshots\/services-page.png",
+            "source": "templates\/services-page.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/services-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses - Block",
+            "screenshot": "screenshots\/courses-block.png",
+            "source": "templates\/courses-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/courses-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.png",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Slider - Block",
+            "screenshot": "screenshots\/slider-block.png",
+            "source": "templates\/slider-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/slider-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About - Block",
+            "screenshot": "screenshots\/about-block.png",
+            "source": "templates\/about-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/about-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team - Block",
+            "screenshot": "screenshots\/team-block.png",
+            "source": "templates\/team-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/team-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home - Page",
+            "screenshot": "screenshots\/home-page.jpg",
+            "source": "templates\/home-page.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/home-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial - Block",
+            "screenshot": "screenshots\/testimonial-block.png",
+            "source": "templates\/testimonial-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/testimonial-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing - Block",
+            "screenshot": "screenshots\/pricing-block.png",
+            "source": "templates\/pricing-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/pricing-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services - Block",
+            "screenshot": "screenshots\/services-block.png",
+            "source": "templates\/services-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/services-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Heading - Block",
+            "screenshot": "screenshots\/heading-block.png",
+            "source": "templates\/heading-block.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/heading-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About - Page",
+            "screenshot": "screenshots\/about-page.png",
+            "source": "templates\/about-page.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact - Page",
+            "screenshot": "screenshots\/contact-page.png",
+            "source": "templates\/contact-page.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses - Page",
+            "screenshot": "screenshots\/courses-page.png",
+            "source": "templates\/courses-page.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/template-kit\/courses-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elkits4.bolvo.com\/eduliv\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.8.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.9",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "about-banner.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/about-banner.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact - Page"
+                },
+                {
+                    "source": "templates\/courses-page.json",
+                    "name": "Courses - Page"
+                }
+            ],
+            "filesize": 609765,
+            "dimensions": [
+                1920,
+                775
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6BDHRXS"
+        },
+        {
+            "filename": "bank.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/bank.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/services-block.json",
+                    "name": "Services - Block"
+                }
+            ],
+            "filesize": 6054,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-UEEPTK"
+        },
+        {
+            "filename": "graduation-hat.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/graduation-hat.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/services-block.json",
+                    "name": "Services - Block"
+                }
+            ],
+            "filesize": 6100,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-UEEPTK"
+        },
+        {
+            "filename": "shield-3.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/shield-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/services-block.json",
+                    "name": "Services - Block"
+                }
+            ],
+            "filesize": 18895,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-UEEPTK"
+        },
+        {
+            "filename": "life-belt.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/life-belt.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/services-block.json",
+                    "name": "Services - Block"
+                }
+            ],
+            "filesize": 16549,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-UEEPTK"
+        },
+        {
+            "filename": "book-2.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/book-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/services-block.json",
+                    "name": "Services - Block"
+                }
+            ],
+            "filesize": 6208,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-UEEPTK"
+        },
+        {
+            "filename": "cup-2.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/cup-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/services-block.json",
+                    "name": "Services - Block"
+                }
+            ],
+            "filesize": 9928,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-UEEPTK"
+        },
+        {
+            "filename": "Courses-05.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/Courses-05.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-block.json",
+                    "name": "Courses - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/courses-page.json",
+                    "name": "Courses - Page"
+                }
+            ],
+            "filesize": 90876,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9KVXLNJ"
+        },
+        {
+            "filename": "Course-2.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/Course-2.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-block.json",
+                    "name": "Courses - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/courses-page.json",
+                    "name": "Courses - Page"
+                }
+            ],
+            "filesize": 164146,
+            "dimensions": [
+                370,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5HLR7D4"
+        },
+        {
+            "filename": "Courses-03.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/Courses-03.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-block.json",
+                    "name": "Courses - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/courses-page.json",
+                    "name": "Courses - Page"
+                }
+            ],
+            "filesize": 70893,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6K4TJDQ"
+        },
+        {
+            "filename": "Courses-02.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/Courses-02.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-block.json",
+                    "name": "Courses - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/courses-page.json",
+                    "name": "Courses - Page"
+                }
+            ],
+            "filesize": 99429,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BEVA85X"
+        },
+        {
+            "filename": "footer-logo.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/footer-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2933,
+            "dimensions": [
+                79,
+                89
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        },
+        {
+            "filename": "5e79720a281e9_classroom-classmate-insight-education-digital-conc-p4utmuj.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2019\/11\/5e79720a281e9_classroom-classmate-insight-education-digital-conc-p4utmuj-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 114228,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4UTMUJ"
+        },
+        {
+            "filename": "5e7976029b005_group-of-teenage-students-in-uniform-outside-schoo-pufwvq8.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2019\/11\/5e7976029b005_group-of-teenage-students-in-uniform-outside-schoo-pufwvq8-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 94740,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUFWVQ8"
+        },
+        {
+            "filename": "5e7975aee83aa_group-of-schoolchildren-holding-color-coded-recycl-9ytyx9q.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2019\/11\/5e7975aee83aa_group-of-schoolchildren-holding-color-coded-recycl-9ytyx9q-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 74451,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9YTYX9Q"
+        },
+        {
+            "filename": "5e79799cc353e_teacher-taking-a-register-of-school-kids-by-school-jzlkp4q.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2019\/11\/5e79799cc353e_teacher-taking-a-register-of-school-kids-by-school-jzlkp4q-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 88549,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JZLKP4Q"
+        },
+        {
+            "filename": "experienced-female-lawyer-MRJATXL.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/experienced-female-lawyer-MRJATXL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 117005,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRJATXL"
+        },
+        {
+            "filename": "5e7970a0f25cc_attentive-students-studying-in-library-cz39dys.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2019\/11\/5e7970a0f25cc_attentive-students-studying-in-library-cz39dys-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 77021,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CZ39DYS"
+        },
+        {
+            "filename": "banner-01.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/banner-01.png",
+            "templates": [
+                {
+                    "source": "templates\/slider-block.json",
+                    "name": "Slider - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 886135,
+            "dimensions": [
+                1920,
+                786
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBVC7C6"
+        },
+        {
+            "filename": "abstract-blur-people-lecture-in-seminar-room-CN5Z2TA.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/abstract-blur-people-lecture-in-seminar-room-CN5Z2TA-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-block.json",
+                    "name": "Slider - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 261355,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CN5Z2TA"
+        },
+        {
+            "filename": "signature.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/signature.png",
+            "templates": [
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 9052,
+            "dimensions": [
+                137,
+                105
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        },
+        {
+            "filename": "About-Us.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/About-Us.png",
+            "templates": [
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 334815,
+            "dimensions": [
+                470,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4UTMUJ"
+        },
+        {
+            "filename": "trophy-01-01.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/trophy-01-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 8404,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        },
+        {
+            "filename": "team-member-01.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/team-member-01.png",
+            "templates": [
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 123719,
+            "dimensions": [
+                272,
+                272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3XFTB5"
+        },
+        {
+            "filename": "team-member-04.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/team-member-04.png",
+            "templates": [
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 63031,
+            "dimensions": [
+                272,
+                272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZAHPYH"
+        },
+        {
+            "filename": "team-member-02.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/team-member-02.png",
+            "templates": [
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 105530,
+            "dimensions": [
+                272,
+                272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUM5QLJ"
+        },
+        {
+            "filename": "team-member-05.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/team-member-05.png",
+            "templates": [
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 61828,
+            "dimensions": [
+                272,
+                272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZAHPYH"
+        },
+        {
+            "filename": "contact-us-bg.jpg",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/contact-us-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 110591,
+            "dimensions": [
+                1600,
+                526
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PA4P2UL"
+        },
+        {
+            "filename": "Basic-White-37.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/Basic-White-37.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 12324,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "Basic-White-12.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/Basic-White-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 38057,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "Basic-White-11.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/Basic-White-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 9717,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "Basic-White-48.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/04\/Basic-White-48.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 35173,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "left-quotes-sign-01.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/left-quotes-sign-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial - Block"
+                }
+            ],
+            "filesize": 10470,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        },
+        {
+            "filename": "Testimonial-01.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/Testimonial-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial - Block"
+                }
+            ],
+            "filesize": 8951,
+            "dimensions": [
+                69,
+                69
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZAHPYH"
+        },
+        {
+            "filename": "testimonial.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/testimonial.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial - Block"
+                }
+            ],
+            "filesize": 216338,
+            "dimensions": [
+                430,
+                422
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZAHPYH"
+        },
+        {
+            "filename": "Featured-Image-01.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/Featured-Image-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 276038,
+            "dimensions": [
+                390,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V8QHC6M"
+        },
+        {
+            "filename": "Featured-Image-02.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/Featured-Image-02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 285402,
+            "dimensions": [
+                390,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CZ39DYS"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/elkits4.bolvo.com\/eduliv\/wp-content\/uploads\/sites\/6\/2020\/03\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6421,
+            "dimensions": [
+                159,
+                145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        }
+    ]
+}

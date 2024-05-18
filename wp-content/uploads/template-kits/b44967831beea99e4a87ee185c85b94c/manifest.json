@@ -1,0 +1,1201 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Studdy - E-Learning & Online Courses Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Mentors",
+            "screenshot": "screenshots\/mentors.jpg",
+            "source": "templates\/mentors.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/mentors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs Page",
+            "screenshot": "screenshots\/faqs-page.jpg",
+            "source": "templates\/faqs-page.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/faqs-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/askproject.net\/studdy\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.4.7",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "1.5.9.3",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.5",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.1.2",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/logo_Asset-7-800x411.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 34350,
+            "dimensions": [
+                1596,
+                820
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "rm218batch4-ning-34.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/rm218batch4-ning-34-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs-page.json",
+                    "name": "FAQs Page"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 139763,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "positive-caucasian-girl-with-charming-smile-wears-GKMGX341.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/positive-caucasian-girl-with-charming-smile-wears-GKMGX341.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 215291,
+            "dimensions": [
+                688,
+                887
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KMGX341"
+        },
+        {
+            "filename": "studio-shot-of-cute-thankful-clever-student-feels-RP65PDL-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/studio-shot-of-cute-thankful-clever-student-feels-RP65PDL-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 218633,
+            "dimensions": [
+                700,
+                816
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP65PDL"
+        },
+        {
+            "filename": "horizontal-shot-of-pleasant-looking-cheerful-europ-H6BTHYD-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/horizontal-shot-of-pleasant-looking-cheerful-europ-H6BTHYD-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 215205,
+            "dimensions": [
+                777,
+                870
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H6BTHYD"
+        },
+        {
+            "filename": "Asset-5_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/Asset-5_2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 133662,
+            "dimensions": [
+                1132,
+                1132
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-4_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/Asset-4_2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 134189,
+            "dimensions": [
+                1132,
+                1132
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-3_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/Asset-3_2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 133608,
+            "dimensions": [
+                1132,
+                1132
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/transparent-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs-page.json",
+                    "name": "FAQs Page"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 30271,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/Asset-6-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs-page.json",
+                    "name": "FAQs Page"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 227473,
+            "dimensions": [
+                2304,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cheerful-bearded-senior-european-man-smiles-gladfu-BSUDYSL-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/cheerful-bearded-senior-european-man-smiles-gladfu-BSUDYSL-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 235300,
+            "dimensions": [
+                700,
+                753
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BSUDYSL"
+        },
+        {
+            "filename": "website-designer-EH7YWVE.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/website-designer-EH7YWVE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 164816,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EH7YWVE"
+        },
+        {
+            "filename": "process-of-writing-calligraphy-writer-TFPYERL.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/process-of-writing-calligraphy-writer-TFPYERL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 142568,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TFPYERL"
+        },
+        {
+            "filename": "girl-playing-singer-5GNLZJU.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/girl-playing-singer-5GNLZJU-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 142492,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5GNLZJU"
+        },
+        {
+            "filename": "image-of-programmer-man-wearing-eyeglasses-working-RP2YDGV.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/image-of-programmer-man-wearing-eyeglasses-working-RP2YDGV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 247474,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP2YDGV"
+        },
+        {
+            "filename": "portrait-of-a-young-blonde-woman-isolated-on-a-whi-EZCC7RP.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-of-a-young-blonde-woman-isolated-on-a-whi-EZCC7RP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 72745,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZCC7RP"
+        },
+        {
+            "filename": "portrait-of-afro-american-man-listening-music-agai-CAJQK28.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-of-afro-american-man-listening-music-agai-CAJQK28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 70763,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CAJQK28"
+        },
+        {
+            "filename": "portrait-of-a-boy-white-background-WTDYRV2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-of-a-boy-white-background-WTDYRV2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 62071,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WTDYRV2"
+        },
+        {
+            "filename": "portrait-happy-girl-with-closed-eyes-on-white-back-PN2UAH5.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-happy-girl-with-closed-eyes-on-white-back-PN2UAH5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 103509,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PN2UAH5"
+        },
+        {
+            "filename": "handsome-cheerful-european-guy-with-thick-bristle-6CHT7KZ-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/handsome-cheerful-european-guy-with-thick-bristle-6CHT7KZ-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 151268,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CHT7KZ"
+        },
+        {
+            "filename": "half-length-shot-of-cheerful-senior-man-smiles-hap-36A6ZXK-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/half-length-shot-of-cheerful-senior-man-smiles-hap-36A6ZXK-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 189191,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-36A6ZXK"
+        },
+        {
+            "filename": "portrait-of-good-looking-brunette-woman-smiles-too-UCETKXG-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-of-good-looking-brunette-woman-smiles-too-UCETKXG-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 142720,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UCETKXG"
+        },
+        {
+            "filename": "indoor-shot-of-attractive-european-schoolgirl-has-LEUUQRK-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/indoor-shot-of-attractive-european-schoolgirl-has-LEUUQRK-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 167662,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LEUUQRK"
+        },
+        {
+            "filename": "studying-in-college-4CRUQUA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/studying-in-college-4CRUQUA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 211635,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4CRUQUA"
+        },
+        {
+            "filename": "college-student-YCNL3GU-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/college-student-YCNL3GU-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 123559,
+            "dimensions": [
+                700,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YCNL3GU"
+        },
+        {
+            "filename": "students-and-teacher-RVRHBBJ-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/students-and-teacher-RVRHBBJ-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 215081,
+            "dimensions": [
+                700,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RVRHBBJ"
+        },
+        {
+            "filename": "girl-in-college-MGZDENU-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/girl-in-college-MGZDENU-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 128843,
+            "dimensions": [
+                700,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MGZDENU"
+        },
+        {
+            "filename": "girl-studying-at-home-ZR84WT2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/girl-studying-at-home-ZR84WT2-800x592.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 175882,
+            "dimensions": [
+                2100,
+                1555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZR84WT2"
+        },
+        {
+            "filename": "study-online-M249RNU.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/study-online-M249RNU-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                },
+                {
+                    "source": "templates\/faqs-page.json",
+                    "name": "FAQs Page"
+                }
+            ],
+            "filesize": 155270,
+            "dimensions": [
+                2100,
+                1401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M249RNU"
+        },
+        {
+            "filename": "boy-studying-on-laptop-4JG9XFN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/boy-studying-on-laptop-4JG9XFN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 121562,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4JG9XFN"
+        },
+        {
+            "filename": "business-woman-in-hijab-RERT84Z-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/business-woman-in-hijab-RERT84Z-1.png",
+            "templates": [
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 129662,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RERT84Z"
+        },
+        {
+            "filename": "charming-thoughtful-senior-european-woman-stands-w-U6QF6C5-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/charming-thoughtful-senior-european-woman-stands-w-U6QF6C5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 141913,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U6QF6C5"
+        },
+        {
+            "filename": "cheerful-handsome-man-keeps-arms-folded-looks-conf-JFNGYQL-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/cheerful-handsome-man-keeps-arms-folded-looks-conf-JFNGYQL-1.png",
+            "templates": [
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 190279,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JFNGYQL"
+        },
+        {
+            "filename": "pleased-good-looking-woman-with-light-hair-smiles-48552MV-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/pleased-good-looking-woman-with-light-hair-smiles-48552MV-1.png",
+            "templates": [
+                {
+                    "source": "templates\/mentors.json",
+                    "name": "Mentors"
+                }
+            ],
+            "filesize": 189008,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-48552MV"
+        },
+        {
+            "filename": "african-schoolboy-studying-2H87MNW.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/african-schoolboy-studying-2H87MNW-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 192914,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2H87MNW"
+        },
+        {
+            "filename": "portrait-6PCNF3S.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-6PCNF3S.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 55947,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6PCNF3S"
+        },
+        {
+            "filename": "portrait-of-a-young-white-man-using-a-smartphone-PBFJNAY.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/portrait-of-a-young-white-man-using-a-smartphone-PBFJNAY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 68198,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBFJNAY"
+        },
+        {
+            "filename": "schoolgirl-studying-at-home-RADXERR.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/schoolgirl-studying-at-home-RADXERR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 200512,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RADXERR"
+        },
+        {
+            "filename": "happy-group-of-young-students-studying-together-6Y7CSKY.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/happy-group-of-young-students-studying-together-6Y7CSKY-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 198402,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6Y7CSKY"
+        },
+        {
+            "filename": "young-woman-studying-at-home-EVDZW4K.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/young-woman-studying-at-home-EVDZW4K-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 169504,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EVDZW4K"
+        },
+        {
+            "filename": "Asset-7_404.png",
+            "thumbnail_url": "http:\/\/askproject.net\/studdy\/wp-content\/uploads\/sites\/43\/2021\/12\/Asset-7_404-800x308.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 75088,
+            "dimensions": [
+                1979,
+                763
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

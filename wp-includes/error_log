@@ -1,0 +1,124 @@
+[11-Jan-2024 05:02:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[11-Jan-2024 05:02:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[11-Jan-2024 05:02:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[11-Jan-2024 05:02:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[11-Jan-2024 05:02:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[11-Jan-2024 05:02:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[11-Jan-2024 05:02:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[11-Jan-2024 05:02:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[11-Jan-2024 05:03:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[11-Jan-2024 05:03:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[11-Jan-2024 05:03:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[11-Jan-2024 05:03:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[11-Jan-2024 05:03:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[11-Jan-2024 05:03:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[11-Jan-2024 05:04:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[11-Jan-2024 05:04:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[27-Mar-2024 04:20:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[27-Mar-2024 04:20:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[27-Mar-2024 04:20:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[27-Mar-2024 04:21:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/landingu/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[27-Mar-2024 09:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[27-Mar-2024 09:49:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[27-Mar-2024 09:49:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[27-Mar-2024 09:49:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/landingu/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[28-Mar-2024 02:41:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[28-Mar-2024 02:41:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[28-Mar-2024 02:41:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
+[28-Mar-2024 02:41:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/landingu/sman1teladan-yog.sch.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/template-canvas.php on line 12
+[07-May-2024 00:53:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-http.php on line 11
+[07-May-2024 00:53:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-scripts.php on line 18
+[07-May-2024 00:54:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/sman1teladan-yog.sch.id/wp-includes/class-wp-styles.php on line 18
